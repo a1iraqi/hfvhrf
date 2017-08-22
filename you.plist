@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://down.weapp.com/apps/zb/002/63/68/74/598f582c1a2ab4e1617b4f62.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.weapp.com/picture/app_ios/us/002/63/68/74/512x512bb.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.weapp.com/picture/app_ios/us/002/63/68/74/512x512bb.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.intelcent.iCallLiaoLeMe
+</string>
+				<key>bundle-version</key>
+				<string>2.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>youtube</string>
+				<key>title</key>
+				<string>
+Youtube ++ BY @a1iraqi 
+
+يجب تثبيت المساعد لكي يعمل معاك التطبيق
+للمزيد من التطبيقات تابعني تويتر
+				</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
